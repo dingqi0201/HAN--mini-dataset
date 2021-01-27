@@ -23,7 +23,7 @@ The visitlog.txt file contains users' news click hostories. It has 5 columns div
 
 ### hot_news.txt
 
-The hot_news.txt file contains information of hot news which are ordered by the number of clicks. It has 2 columns divided by the tab symbol:
+The hot_news.txt file contains information of hot news of March 2019 which are ordered by the number of clicks. It has 2 columns divided by the tab symbol:
 
 - news_id. The ID of a news.
 - news_title. The title of a news.
